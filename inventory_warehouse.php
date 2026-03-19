@@ -20,7 +20,7 @@ $units = get_inventory('warehouse');
 
         <div class="header">
             <div class="header-title">Warehouse Inventory</div>
-            <div class="header-description">WMS when they confirm our MPL stuff</div>
+            <div class="header-description">WMS confirms our MPL</div>
         </div>
 
         <div class="table-container" style="max-height:400px;overflow-y:auto;">
